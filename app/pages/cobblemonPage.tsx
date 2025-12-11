@@ -10,6 +10,7 @@ type Badge = {
     badgeName: string;
     image: string;
     type: string;
+    author?: string;
 };
 
 const CobblemonPage = () => {

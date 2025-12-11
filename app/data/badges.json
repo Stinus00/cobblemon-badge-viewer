@@ -112,6 +112,7 @@
     "badgeId": 8030101,
     "badgeName": "Druidic Type Badge",
     "image": "druidic_badge.png",
-    "type": "custom"
+    "type": "custom",
+    "author": "Corporate Colonel"
   }
 ]
