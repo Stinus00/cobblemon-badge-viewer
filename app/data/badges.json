@@ -1,0 +1,117 @@
+[
+  {
+    "badgeId": 8030001,
+    "badgeName": "Normal Type Badge",
+    "image": "normal_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030002,
+    "badgeName": "Fire Type Badge",
+    "image": "fire_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030003,
+    "badgeName": "Water Type Badge",
+    "image": "water_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030004,
+    "badgeName": "Grass Type Badge",
+    "image": "grass_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030005,
+    "badgeName": "Flying Type Badge",
+    "image": "flying_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030006,
+    "badgeName": "Fighting Type Badge",
+    "image": "fighting_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030007,
+    "badgeName": "Poison Type Badge",
+    "image": "poison_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030008,
+    "badgeName": "Electric Type Badge",
+    "image": "electric_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030009,
+    "badgeName": "Ground Type Badge",
+    "image": "ground_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030010,
+    "badgeName": "Rock Type Badge",
+    "image": "rock_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030011,
+    "badgeName": "Psychic Type Badge",
+    "image": "psychic_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030012,
+    "badgeName": "Ice Type Badge",
+    "image": "ice_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030013,
+    "badgeName": "Bug Type Badge",
+    "image": "bug_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030014,
+    "badgeName": "Ghost Type Badge",
+    "image": "ghost_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030015,
+    "badgeName": "Steel Type Badge",
+    "image": "steel_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030016,
+    "badgeName": "Dragon Type Badge",
+    "image": "dragon_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030017,
+    "badgeName": "Dark Type Badge",
+    "image": "dark_badge.png",
+    "type": "normal"
+  },
+  {
+    "badgeId": 8030018,
+    "badgeName": "Fairy Type Badge",
+    "image": "fairy_badge.png",
+    "type": "normal"
+  },
+
+  {
+    "badgeId": 8030101,
+    "badgeName": "Druidic Type Badge",
+    "image": "druidic_badge.png",
+    "type": "custom"
+  }
+]
