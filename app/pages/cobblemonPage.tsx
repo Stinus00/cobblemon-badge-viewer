@@ -4,6 +4,7 @@ import { getItemById } from "~/utils/getItemById";
 import BadgeSelector from "../components/BadgeSelector";
 import BadgeComponent from "../components/BadgeComponent";
 import CommandLine from "~/components/CommandLine";
+import DownloadBanner from "~/components/DownloadBanner";
 
 type Badge = {
     badgeId: number;
@@ -20,14 +21,14 @@ const CobblemonPage = () => {
 
     return (
         <div className="max-w-md mx-auto p-4 space-y-6">
-            <BadgeComponent badge={selectedItem}/>
+            <DownloadBanner/>
 
+            <BadgeComponent badge={selectedItem}/>
             <BadgeSelector
                 badges={data}
                 selectedId={selectedId}
                 onSelect={setSelectedId}
             />
-
             <CommandLine badge={selectedItem} selectedId={selectedId}/>
         </div>
     );
