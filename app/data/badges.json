@@ -114,5 +114,12 @@
     "image": "druidic_badge.png",
     "type": "custom",
     "author": "Corporate Colonel"
+  },
+  {
+    "badgeId": 8030102,
+    "badgeName": "Storm Badge",
+    "image": "storm_badge.png",
+    "type": "custom",
+    "author": "Stinus"
   }
 ]
