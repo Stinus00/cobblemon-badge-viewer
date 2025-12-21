@@ -12,7 +12,7 @@ type Props = {
 const BadgeSelector = ({ badges, selectedId, onSelect }: Props) => {
     return (
         <select
-            style={{color: '#9e9e9e'}}
+            style={{color: '#737373'}}
             value={selectedId}
             className="w-full border rounded px-3 py-2"
             onChange={(e) => onSelect(Number(e.target.value))}>
