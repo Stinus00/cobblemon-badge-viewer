@@ -16,7 +16,9 @@ const BadgeSelector = ({ badges, selectedId, onSelect }: Props) => {
             className="w-full border rounded px-3 py-2"
             onChange={(e) => onSelect(Number(e.target.value))}>
             {badges.map((badge) => (
-                <option key={badge.badgeId} value={badge.badgeId}>
+                <option key={badge.badgeId}
+                        value={badge.badgeId}
+                        disabled={badge.type === "placeholder" ? true : false}>
                     {badge.badgeName}
                 </option>
             ))}

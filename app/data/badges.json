@@ -1,5 +1,10 @@
 [
   {
+    "badgeId": 2,
+    "badgeName": "Normal Badges",
+    "type": "placeholder"
+  },
+  {
     "badgeId": 8030001,
     "badgeName": "Normal Type Badge",
     "image": "normal_badge.png",
@@ -108,6 +113,11 @@
     "type": "normal"
   },
 
+  {
+    "badgeId": 2,
+    "badgeName": "Custom Badges",
+    "type": "placeholder"
+  },
   {
     "badgeId": 8030101,
     "badgeName": "Druidic Badge",
